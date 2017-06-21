@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3  05/04/2017-16:39:38
+# Converted with eagle-lbr2kicad-1.0.ulp Version:2.80  Build Date:24-FEBC-2017  USE THIS PROGRAM AT YOUR OWN RISK
+# devicesets = 1  devicescount =1
+#
+# KEMET_AMAXIMUM     # KEMET_AMAXIMUM
+#
+DEF KEMET_AMAXIMUM M 0 40 N N 1 L N
+F0 "M" 45 19 45 H V L BNN
+F1 "KEMET_AMAXIMUM" 45 -181 45 H V L BNN
+F2 "3216-18W" 30 150 20 H I C CNN
+$FPLIST
+ *3216-18W*
+$ENDFPLIST
+DRAW
+P 2 1 0 0 -60 -35 60 -35 N
+P 2 1 0 0 60 -35 60 0 N
+P 2 1 0 0 -60 0 -60 -35 N
+P 2 1 0 0 -60 0 60 0 N
+S -65 -100 65 -65 1 1 0 F
+T 900 -43 35 40 0 1 0 "+"  Normal 0 C C
+X + A+ 0 100 100 D 40 40 1 1 P 
+X - C- 0 -200 100 U 40 40 1 1 P 
+ENDDRAW
+ENDDEF
+#End Library

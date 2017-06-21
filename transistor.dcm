@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2DD2656
+D Vce 100V, Ic 1A, High Voltage Power Transistor, TO-126
+K High Voltage Power Transistor
+$ENDCMP
+#
+$CMP 2SD600
+D Vce 100V, Ic 1A, High Voltage Power Transistor, TO-126
+K High Voltage Power Transistor
+$ENDCMP
+#
+#End Doc Library

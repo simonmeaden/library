@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI4431DY
+D P-Channel 30-V (D-S) MOSFET
+K P-Channel MOSFET
+F http://www.farnell.com/datasheets/2046894.pdf?_ga=2.57791274.1875952393.1495548211-1870542089.1490683821
+$ENDCMP
+#
+#End Doc Library

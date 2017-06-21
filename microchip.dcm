@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX3080CSD
+D Fail-Safe, High-Speed (10Mbps),Slew-Rate-Limited RS-485/RS-422 Transceivers
+K RS485 RS422 Transceiver
+$ENDCMP
+#
+#End Doc Library

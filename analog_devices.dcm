@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8510
+D Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers
+K op amp amplifier operational jfet
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8510_8512_8513.pdf
+$ENDCMP
+#
+$CMP AD8512
+D Dual, Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers
+K op amp amplifier operational jfet
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8510_8512_8513.pdf
+$ENDCMP
+#
+$CMP AD8513
+D Quad, Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers
+K op amp amplifier operational jfet
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8510_8512_8513.pdf
+$ENDCMP
+#
+$CMP ADR0X
+D Ultracompact, Precision Voltage References
+K 10.0V 5.0V 2.5V 3.0V
+$ENDCMP
+#
+#End Doc Library
